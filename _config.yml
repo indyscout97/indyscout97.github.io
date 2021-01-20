@@ -1,10 +1,16 @@
 title: Jack Beck # your name (or website title) here
 logo: "/images/headshot_pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description:
+  Summary:
+  I am an aspiring Data Analytics professional, currently enrolled in an MSBA program at The Leeds School of Business. I aim to use the skills and knowledge I've obtained throughout my education to create meaningful value in my career.
   MS Business Analytics Student at The Leeds School of Business
+  BS Business Administration: Finance Emphasis
   <br><br>
-  Second description:
+  Skills:
+    * SQL
+    * R
+    * Python
+    * Microsoft Office 
   <br><br>
   <a href="https://www.linkedin.com/in/jack-beck-10679b185/">View My LinkedIn Profile</a>
 
