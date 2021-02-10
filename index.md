@@ -14,7 +14,7 @@
 
 *__Project Team:__* <br/>
 __Jack Beck, Jordan Waldroop, Dria Fabrizio__
-
+</br>
 
 ---
 
