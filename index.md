@@ -10,6 +10,8 @@
 - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf)
 - [Data](https://github.com/indyscout97/carMPGregregression/blob/main/auto-mpg%20-%20Team%206.data)
 
+*__Project Team:__*
+__Jack Beck, Jordan Waldroop, Dria Fabrizio__
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
