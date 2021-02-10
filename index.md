@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression)
+<img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
