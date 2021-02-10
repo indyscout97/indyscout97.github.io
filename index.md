@@ -7,7 +7,7 @@
 [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression)
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
-# Project Links:
+### Project Links:
 - [R Script](https://github.com/indyscout97/carMPGregregression/blob/main/Final%20Project%20-%20Team%206.R)
 - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf)
 - [Data](https://github.com/indyscout97/carMPGregregression/blob/main/auto-mpg%20-%20Team%206.data)
