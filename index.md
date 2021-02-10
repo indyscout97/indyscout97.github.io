@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1
+### Analytics Projects
 
 [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression)
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
