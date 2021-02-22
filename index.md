@@ -18,8 +18,8 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 ---
 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Phishing URL's](https://github.com/jwaldroop/phishing-url-project)
+<img src="images/rocpic.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
