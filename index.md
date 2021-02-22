@@ -21,6 +21,8 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 [Predicting Phishing URL's](https://github.com/jwaldroop/phishing-url-project)
 <img src="images/rocpic.png?raw=true"/>
 
+*__Project Team:__* <br/>
+__Jack Beck, Jordan Waldroop__
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
