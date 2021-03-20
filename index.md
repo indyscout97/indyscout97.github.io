@@ -41,3 +41,15 @@ __Jack Beck, Jordan Waldroop__
 __Jack Beck, Jordan Waldroop, Anuraag Hooda, Dria Fabrizio__
 
 ---
+
+[Relational Databases Final Project - SQL)](https://github.com/indyscout97/Relational-Databases-Final-Project)
+<img src="images/ER SCREENSHOT.jpg?raw=true"/>
+
+#### Project Links:
+- [Create & Insert Statements](https://github.com/indyscout97/Relational-Databases-Final-Project/blob/main/rentwithus_dump_create%26insert.sql)
+- [Select & Stored Functions/Procedures](https://github.com/indyscout97/Relational-Databases-Final-Project/blob/main/Final%20Project%20All%20Scripts%20-%20Final.sql)
+- [ER Diagram](https://github.com/indyscout97/Relational-Databases-Final-Project/blob/main/ProjectERDiagram.mwb)
+- [Report](https://github.com/indyscout97/Relational-Databases-Final-Project/blob/main/FINAL%20Compiled%20Report%20-%20Team%2017%20-%20RentWithUs.pdf)
+
+*__Project Team:__* <br/>
+__Jack Beck, Jordan Waldroop, Isaac Everitt, Salem Alqarzi, Cody Rogers__
