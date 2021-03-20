@@ -18,8 +18,13 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 ---
 
 
-[Predicting Phishing URL's](https://github.com/jwaldroop/phishing-url-project)
+[Predicting Phishing URL's (WIP)](https://github.com/jwaldroop/phishing-url-project)
 <img src="images/rocpic.png?raw=true"/>
+
+#### Project Links:
+- [Random Forest Model - Jack's Model](https://github.com/jwaldroop/phishing-url-project/blob/main/RandomForest_Edited.ipynb)
+- [Preliminary Results Report](https://github.com/jwaldroop/phishing-url-project/blob/main/prelim_results_report.pdf)
+- [Data](https://github.com/jwaldroop/phishing-url-project/blob/main/dataset_full.csv)
 
 *__Project Team:__* <br/>
 __Jack Beck, Jordan Waldroop__
