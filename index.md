@@ -30,7 +30,14 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 __Jack Beck, Jordan Waldroop__
 
 ---
-[{Predicting Next Day Weather: Austrailia}](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Next Day Weather: Austrailia (WIP)](https://github.com/indyscout97/Austrailia-Rain-Prediction)
+<img src="images/thunderstorms-australia.jpg?raw=true"/>
+
+#### Project Links:
+- [Data Cleaning](https://github.com/indyscout97/Austrailia-Rain-Prediction/blob/main/Data%20Cleaning%20and%20RF%20Model.ipynb)
+- [Data](https://github.com/indyscout97/Austrailia-Rain-Prediction/blob/main/weatherAUS_states.csv)
+
+*__Project Team:__* <br/>
+__Jack Beck, Jordan Waldroop, Anuraag Hooda, Dria Fabrizio__
 
 ---
