@@ -34,7 +34,7 @@ __Jack Beck, Jordan Waldroop__
 <img src="images/thunderstorms-australia.jpg?raw=true"/>
 
 #### Project Links:
-- [Data Cleaning](https://github.com/indyscout97/Austrailia-Rain-Prediction/blob/main/Data%20Cleaning%20and%20RF%20Model.ipynb)
+- [Data Cleaning - I am proud of this one](https://github.com/indyscout97/Austrailia-Rain-Prediction/blob/main/Data%20Cleaning%20and%20RF%20Model.ipynb)
 - [Data](https://github.com/indyscout97/Austrailia-Rain-Prediction/blob/main/weatherAUS_states.csv)
 
 *__Project Team:__* <br/>
