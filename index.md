@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-[Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression)
+[Car MPG Regression Analysis - R](https://github.com/indyscout97/carMPGregregression)
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
 #### Project Links:
@@ -18,7 +18,7 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 ---
 
 
-[Predicting Phishing URL's (WIP)](https://github.com/jwaldroop/phishing-url-project)
+[Predicting Phishing URL's - Python (WIP)](https://github.com/jwaldroop/phishing-url-project)
 <img src="images/rocpic.png?raw=true"/>
 
 #### Project Links:
@@ -30,7 +30,7 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 __Jack Beck, Jordan Waldroop__
 
 ---
-[Predicting Next Day Weather: Austrailia (WIP)](https://github.com/indyscout97/Austrailia-Rain-Prediction)
+[Predicting Next Day Weather: Australia - Python (WIP)](https://github.com/indyscout97/Austrailia-Rain-Prediction)
 <img src="images/thunderstorms-australia.jpg?raw=true"/>
 
 #### Project Links:
