@@ -42,7 +42,7 @@ __Jack Beck, Jordan Waldroop, Anuraag Hooda, Dria Fabrizio__
 
 ---
 
-[Relational Databases Final Project - SQL)](https://github.com/indyscout97/Relational-Databases-Final-Project)
+[Relational Databases Final Project - (SQL)](https://github.com/indyscout97/Relational-Databases-Final-Project)
 <img src="images/ER SCREENSHOT.png?raw=true"/>
 
 #### Project Links:
