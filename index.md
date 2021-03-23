@@ -4,9 +4,9 @@
 
 ### Analytics Projects
 
-[Car MPG Regression Analysis - R](https://github.com/indyscout97/carMPGregregression)
+[Car MPG Regression Analysis - R
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
-
+](https://github.com/indyscout97/carMPGregregression)
 #### Project Links:
 - [R Script](https://github.com/indyscout97/carMPGregregression/blob/main/Final%20Project%20-%20Team%206.R)
 - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf)
