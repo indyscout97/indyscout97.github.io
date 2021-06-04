@@ -1,5 +1,10 @@
 ## Developer Portfolio Landing Page Template
 
+### Jack's Note
+Website is in a good state for the time being. Once I have more projects to share I will look to update it further. Until then this will be fine.
+
+
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
