@@ -2,7 +2,7 @@
 
 ---
 
-### Analytics Projects
+### Academic Analytics Projects
 
 [Car MPG Regression Analysis - R
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
