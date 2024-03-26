@@ -19,7 +19,7 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 ---
 
 
-[Predicting Phishing URL's - Python (WIP)
+[Predicting Phishing URL's - Python 
 <img src="images/rocpic.png?raw=true"/>
 ](https://github.com/jwaldroop/phishing-url-project)
 
@@ -32,7 +32,7 @@ __Jack Beck, Jordan Waldroop, Dria Fabrizio__
 __Jack Beck, Jordan Waldroop__
 
 ---
-[Predicting Next Day Weather: Australia - Python (WIP)
+[Predicting Next Day Weather: Australia - Python 
 <img src="images/thunderstorms-australia.jpg?raw=true"/>
 ](https://github.com/indyscout97/Australia-Rain-Prediction)
 #### Project Links:
